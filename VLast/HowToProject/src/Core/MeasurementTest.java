@@ -190,6 +190,7 @@ public class MeasurementTest {
 
             if(found == false){
                 run = true;
+                System.out.println("please choose correctly");
             }
         }while(run == true);
     }
@@ -254,6 +255,7 @@ public class MeasurementTest {
 
             if(found == false){
                 run = true;
+                System.out.println("please choose correctly");
             }
         }while(run == true);
     }
